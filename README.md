@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Prototype Demo
+- [Login]()
+- [Ausweisen]()
 
-You can use the [editor on GitHub](https://github.com/Identity-Stick/identity-stick.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Supported by
+The identity stick project is a finalist of the [PrototypeFund round 7](https://prototypefund.de/), see [our project site](https://prototypefund.de/project/identity-stick/) for details.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Identity-Stick/identity-stick.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[<img alt="BMBF" src="https://github.com/JulianRoesner/identitystick/blob/master/ressources/BMBF_gefîrdert%20vom_deutsch.jpg?raw=true" height="150">](https://www.bmbf.de/de/software-sprint-freie-programmierer-unterstuetzen-3512.html "BMBF Software Sprint Förderrichtlinie")
+[<img alt="Prototypefund" src="https://i0.wp.com/blog.okfn.org/files/2017/12/22137279_1679687182104997_6759961652435307500_o.jpg" height="150">](https://prototypefund.de "Prototypefund Website")

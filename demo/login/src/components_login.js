@@ -429,7 +429,7 @@ var Footer = function (_React$Component5) {
         React.createElement(
           "a",
           { href: "https://www.bmbf.de/de/software-sprint-freie-programmierer-unterstuetzen-3512.html" },
-          React.createElement("img", { src: "..../ressourcen/BMBF_gef\xEErdert%20vom_deutsch.jpg", width: "100", alt: "BMBF" })
+          React.createElement("img", { src: "../../../ressourcen/BMBF_gef\xEErdert%20vom_deutsch.jpg", width: "100", alt: "BMBF" })
         ),
         " ",
         React.createElement(

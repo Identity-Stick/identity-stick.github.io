@@ -478,26 +478,33 @@ var Footer = function (_React$Component8) {
     value: function render() {
       return React.createElement(
         "div",
-        { "class": "footer" },
+        null,
         React.createElement(
-          "a",
-          { href: "https://www.bmbf.de/de/software-sprint-freie-programmierer-unterstuetzen-3512.html" },
-          React.createElement("img", { src: "../../../ressourcen/BMBF_gef\xEErdert%20vom_deutsch.jpg", width: "100", alt: "BMBF" })
-        ),
-        " ",
-        React.createElement(
-          "a",
-          { href: "https://prototypefund.de/" },
-          React.createElement("img", { src: "https://i0.wp.com/blog.okfn.org/files/2017/12/22137279_1679687182104997_6759961652435307500_o.jpg", width: "100", alt: "Prototype Fund" })
-        ),
-        React.createElement(
-          "p",
-          null,
-          "The identity stick project is a finalist of the PrototypeFund round 7.",
+          "div",
+          { style: { display: "flex", alignItems: "center" } },
           React.createElement(
             "a",
-            { style: { marginLeft: "2em" }, href: "https://identity-stick.github.io/impressum" },
-            "Impressum"
+            { href: "https://www.bmbf.de/de/software-sprint-freie-programmierer-unterstuetzen-3512.html" },
+            React.createElement("img", { src: "../../../ressourcen/BMBF_gef%C3%AErdert%20vom_deutsch.jpg", height: "90", alt: "BMBF" })
+          ),
+          React.createElement(
+            "a",
+            { href: "https://prototypefund.de/" },
+            React.createElement("img", { src: "https://i0.wp.com/blog.okfn.org/files/2017/12/22137279_1679687182104997_6759961652435307500_o.jpg", width: "100", alt: "Prototype Fund" })
+          )
+        ),
+        React.createElement(
+          "div",
+          { "class": "footer" },
+          React.createElement(
+            "p",
+            null,
+            "Diese Demo ist Teil des Projekts Identity Stick. Das Projekt Identity Stick ist Finalist der PrototypeFund Runde 7.",
+            React.createElement(
+              "a",
+              { style: { marginLeft: "2em" }, href: "https://identity-stick.github.io/impressum" },
+              "Impressum"
+            )
           )
         )
       );

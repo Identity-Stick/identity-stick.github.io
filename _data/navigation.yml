@@ -1,0 +1,12 @@
+nav_links_title: Content
+links:
+
+
+- title: Home
+  url: /
+
+- title: Demos
+  url: /demo
+
+- title: Konzepte
+  url: /konzepte

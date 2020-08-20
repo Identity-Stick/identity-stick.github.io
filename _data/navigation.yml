@@ -8,8 +8,11 @@ links:
 - title: Demos
   url: /demo
 
-- title: Konzepte
+- title: Überlegungen
   url: /konzepte
 
-- title: Über uns
-  url: /about
+- title: Anwendungsfälle
+  url: /use_cases
+
+- title: Technisches Konzept
+  url: /technical

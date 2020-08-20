@@ -20,11 +20,13 @@
         <header>
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-          <ul>
-            {% for item in site.data.navigation.links %}
-              <li><a href="{{item.url}}">{{item.title}}</a></li>
-            {% endfor %}
-          </ul>
+          <div id="nav-bar">
+            <ul>
+              {% for item in site.data.navigation.links %}
+                <li><a href="{{item.url}}">{{item.title}}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
         </header>
         <hr>
         <section id="main_content">

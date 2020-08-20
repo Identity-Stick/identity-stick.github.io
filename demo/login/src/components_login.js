@@ -427,21 +427,20 @@ var Footer = function (_React$Component5) {
         "div",
         { "class": "footer" },
         React.createElement(
+          "a",
+          { href: "https://www.bmbf.de/de/software-sprint-freie-programmierer-unterstuetzen-3512.html" },
+          React.createElement("img", { src: "..../ressourcen/BMBF_gef\xEErdert%20vom_deutsch.jpg", width: "100", alt: "BMBF" })
+        ),
+        " ",
+        React.createElement(
+          "a",
+          { href: "https://prototypefund.de/" },
+          React.createElement("img", { src: "https://i0.wp.com/blog.okfn.org/files/2017/12/22137279_1679687182104997_6759961652435307500_o.jpg", width: "100", alt: "Prototype Fund" })
+        ),
+        React.createElement(
           "p",
           null,
-          "The identity stick project is a finalist of the PrototypeFund round 7. It is supported by ",
-          React.createElement(
-            "a",
-            { href: "https://www.bmbf.de/de/software-sprint-freie-programmierer-unterstuetzen-3512.html" },
-            "BMBF"
-          ),
-          " and ",
-          React.createElement(
-            "a",
-            { href: "https://prototypefund.de/" },
-            "PrototypeFund"
-          ),
-          ".",
+          "The identity stick project is a finalist of the PrototypeFund round 7.",
           React.createElement(
             "a",
             { style: { marginLeft: "2em" }, href: "https://identity-stick.github.io/impressum" },

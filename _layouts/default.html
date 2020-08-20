@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    <link rel="shortcut icon" href="../ressourcen/id-icon.ico">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -18,12 +19,7 @@
       <div class="inner">
 
         <header>
-          <div id="logo"> 
-            <div class="logo-img">
-              <img src="../ressourcen/logo.png" width="100%" heihgt="100%" alt="Logo der Webseite bestehen aus einem schwarzen i und D"></img>
-            </div>
-          </div>
-          <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
           <div id="nav-bar">
             <ul>
@@ -42,10 +38,12 @@
         {% if site.github.is_project_page %}
           {{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
         {% endif %}
+          <p>Der Identity Stick ist ein Projekt der <a href="https://prototypefund.de/">Prototype Fund Runde 7</a>, das vom <a href="https://www.bmbf.de/">Bundesministerium für Bildung und Forschung</a> gefördert wird. Betreut wird das Projekt vom <a href="https://www.dlr.de/pt/">DLR</a> als Projektträger.</p>
+
           <a href="https://www.bmbf.de/de/software-sprint-freie-programmierer-unterstuetzen-3512.html"><img src="/ressourcen/BMBF_gefîrdert%20vom_deutsch.jpg" height="100"  alt="BMBF"></img></a> <a href="https://prototypefund.de/"><img src="https://i0.wp.com/blog.okfn.org/files/2017/12/22137279_1679687182104997_6759961652435307500_o.jpg" height="100" alt="Prototype Fund"></img></a>
           
-          <p>Der Identity Stick ist ein Projekt der <a href="https://prototypefund.de/">Prototype Fund Runde 7</a>, das vom <a href="https://www.bmbf.de/">Bundesministerium für Bildung und Forschung</a> gefördert wird. Betreut wird das Projekt vom <a href="https://www.dlr.de/pt/">DLR</a> als Projektträger.
-          <a href="https://identity-stick.github.io/impressum">Impressum</a></p>p>
+          
+          <p><a href="https://identity-stick.github.io/impressum">Impressum</a></p>
         </footer>
 
       </div>

@@ -16,7 +16,9 @@ body{
 	background: #fff;
 }
 
-
+header{
+	text-align: center
+}
 #logo{
 	width: 100%;
 	max-width: 300px;
@@ -27,10 +29,10 @@ body{
 }
 
 .logo-img{
-	width: 2em;
-	max-width: 100px;
-	height: 2em;
-	max-width: 100px;
+	width: 4em;
+	max-width: 200px;
+	height: 4em;
+	max-width: 200px;
 
 	background-size: contain;
 	background-image: url('../ressourcen/logo.png')	

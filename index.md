@@ -7,6 +7,8 @@ Niemand mag Passwörter oder Videoidentifikationen. Mit dem Identity-Stick brauc
 
 ![USB Sicherheitssticks auf weissem Grund](https://lh4.googleusercontent.com/l4tIG5EpH8qAyWy5cNr_r43eX_i1GwiIg5RYQGnO1FQ9aRsYycyvCyHAISJF963dfL7IoM8CnqmU2miuxyunWYzmP490MHPLxYPepZfTOa_n1sdF7e6cLEiiYmWfzlwhHIcjfLN7)
 
+**Im Projekt "Identity Stick" wurde ein Prototyp entwickelt, der unser "digitales Ich" schützt und Prozesse erleichtert, für die wir uns identifizieren müssen. Vom Bankkonto bis zum digitalen Antrag.**
+
 ## Einfach
 Kein Chaos mehr. Auf dem gleichen Weg einloggen und ausweisen. Einfach auf einen Button drücken. Ohne Plugins oder weitere Apps.
 
@@ -15,8 +17,6 @@ Der private Schlüssel bleibt immer auf dem Gerät. Passwortdiebstahl ist ausges
 
 ## Skalierbar
 Der FIDO2-Standard wird von über 250 der größten Unternehmen weltweit unterstützt. Die Lösung kann auf Smartphones, Laptops und USB-Sticks implementiert werden.
-
-Im Projekt "Identity Stick" wurde ein Prototyp entwickelt, der unser "digitales Ich" schützt und Prozesse erleichtert, für die wir uns identifizieren müssen. Vom Bankkonto bis zum digitalen Antrag. 
 
 ## Warum brauchen wir das?
 
@@ -38,6 +38,7 @@ Der Identity-Stick Prototyp baut auf dem FIDO2 Protokoll auf und erweitert es um
 💻 [Zum GitHub Projekt](https://github.com/identity-stick)
 
 ##Für wen ist das?
+❗ Der Identity-Stick ist ein Prototyp. Für diese Zielgruppen könnte unsere Lösung interessant sein:
 
 ### Für Unternehmen
 Unternehmen haben häufig besonders sensible Daten. Dafür braucht es gesteigerte Sicherheitsvorkehrungen. Ein USB-Schlüssel kann Mitarbeitenden Zugang zu ihren Accounts geben und dabei Datensicherheit an erste Stelle setzen. 

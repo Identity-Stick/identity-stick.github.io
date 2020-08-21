@@ -1,5 +1,5 @@
 # Project website
-This is the website of the project Identity Stick. It is published using Github Pages & Jekyll. It also publishs a version of our [demo](https://github.com/Identity-Stick/interface_demos).
+This is the website of the project Identity Stick. It is published using Github Pages & Jekyll. It also publishes a version of our [demo](https://github.com/Identity-Stick/interface_demos).
 
 # Supported by
 The identity stick project is a finalist of the [PrototypeFund round 7](https://prototypefund.de/), see [our project site](https://prototypefund.de/project/identity-stick/) for details.

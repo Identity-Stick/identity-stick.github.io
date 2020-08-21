@@ -8,11 +8,14 @@ links:
 - title: Demos
   url: /demo
 
+- title: Mehr über den Prototyp erfahren
+  url: /about_prototype
+
+- title: Hintergrund des Projekts
+  url: /background
+
+- title: Ausblick
+  url: /ausblick
+
 - title: Überlegungen
   url: /konzepte
-
-- title: Anwendungsfälle
-  url: /use_cases
-
-- title: Technisches Konzept
-  url: /technical

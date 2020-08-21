@@ -33,11 +33,11 @@ Der Identity-Stick Prototyp baut auf dem FIDO2 Protokoll auf und erweitert es um
 
 **[VIDEO]**
 
-📜[Mehr über den Prototyp erfahren](/about_prototype)
+📜 [Mehr über den Prototyp erfahren](/about_prototype)
 
 💻 [Zum GitHub Projekt](https://github.com/identity-stick)
 
-##Für wen ist das?
+## Für wen ist das?
 ❗ Der Identity-Stick ist ein Prototyp. Für diese Zielgruppen könnte unsere Lösung interessant sein:
 
 ### Für Unternehmen
@@ -60,4 +60,4 @@ Der Identity Stick ist bisher nur ein Prototyp, verspricht aber großes Potenzia
 
 🚀[Blick in die Zukunft](https://www.notion.so/Blick-in-die-Zukunft-20378cb51e38483d946ea59cb31ca801)
 
-💻Zum GitHub Projekt (open for pull request)
+💻 Zum GitHub Projekt (open for pull request)

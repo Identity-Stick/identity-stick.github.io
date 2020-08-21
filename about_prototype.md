@@ -3,7 +3,7 @@ Mit dem Identity-Stick soll der passwortlose Login um eine Möglichkeit erweiter
 
 Die FIDO Allianz strebt an, die Accounterstellung mit verifizierten Identitätsattributen Wirklichkeit werden zu lassen und Probleme wie die Wiederherstellung von Accounts oder den FIDO-Standard im Internet der Dinge stärker einzusetzen. Bisher wurde der Standard aber nicht dementsprechend erweitert.
 
-# Wie funktioniert das Ausweisen mit dem Identity Stick?
+## Wie funktioniert das Ausweisen mit dem Identity Stick?
 
 Der FIDO-Standard kann für bestimmte Anwendungszwecke angepasst werden. Diese Möglichkeit wurde genutzt um ein eigenes Protokoll zu entwickeln, dass es ermöglicht Nachrichten mit Identitätsattributen von Nutzenden auszutauschen.
 
@@ -21,11 +21,11 @@ Für den Prototyp wurde auf dem Solo FIDO2 Stick "[Solo for Hackers](https://git
 
 Weitere Infos:
 
-- 👩🏾‍💻[Prototyp des Identity Sticks](https://github.com/identity-Stick/identity-stick)
-- 📜[Definition der Erweiterung identity-stick](https://github.com/Identity-Stick/identity-stick-extension)
-- 🖥️[Demo des User Interface](/demo)
+- 👩🏾‍💻 [Prototyp des Identity Sticks](https://github.com/identity-Stick/identity-stick)
+- 📜 [Definition der Erweiterung identity-stick](https://github.com/Identity-Stick/identity-stick-extension)
+- 🖥️ [Demo des User Interface](/demo)
 
-# Was fehlt noch?
+## Was könnte noch weiterentwickelt werden?
 
 Für ein vollumfängliches Produkt könnten weitere Entwicklungsschritte unternommen werden:
 

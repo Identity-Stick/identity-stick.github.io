@@ -49,9 +49,8 @@ Schulen, das digitale Rathaus und vieles mehr: Wir brauchen Ausweise, um unsere 
 ### Für Bürger:innen
 Sicherheit soll nicht nur für Kryptoexpert:innen gelten. Bürger:innen sollen ihre digitale Identität einfach schützen und online Ausweisprozesse integrieren können. In einem Produkt.
 
-### Für Techies, Sicherheitsnerds und Personen, die besonderen Schutz brauchen
-Manche Gruppen brauchen besonderen Schutz ihrer Daten und Accounts. Journalist:innen, Techies oder Sicherheitsnerds
-
+### Für Personen mit erhöhtem Sicherheitsbedarf
+Manche Gruppen brauchen besonderen Schutz ihrer Daten und Accounts. Journalist:innen müssen ihre Quellen sichern oder Ärzt:innen den Zugang zu Daten von Patient:innen. Manche Personen legen besonderen Wert darauf sich online abzusichern.   
 
 ## Wie könnte es weitergehen?
 ❗Der Identity Stick ist bisher nur ein Prototyp. So könnte es weitergehen: 

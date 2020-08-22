@@ -8,14 +8,14 @@ links:
 - title: Demos
   url: /demo
 
-- title: Mehr über den Prototyp erfahren
+- title: Mehr über den Prototyp
   url: /about_prototype
 
-- title: Hintergrund des Projekts
+- title: Hintergrund
   url: /background
-
-- title: Ausblick
-  url: /ausblick
 
 - title: Konzeption
   url: /konzepte
+
+- title: Ausblick
+  url: /ausblick

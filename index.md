@@ -11,7 +11,7 @@ Im Projekt "Identity Stick" wurde ein Prototyp entwickelt, der unser "digitales 
 	<div id="icon-einfach" class="icon">
 	</div>
 	<div class="content">
-		## Einfach
+		<h2>Einfach</h2>
 		Einfach auf einen Button drücken. Ohne Plugins oder weitere Apps. Der private Schlüssel bleibt immer auf dem Gerät. Passwortdiebstahl ist ausgeschlossen.
 	</div>	
 </div>
@@ -20,7 +20,7 @@ Im Projekt "Identity Stick" wurde ein Prototyp entwickelt, der unser "digitales 
 	<div id="icon-einheitlich" class="icon">
 	</div>
 	<div class="content">
-		## Einheitlich
+		<h2>Einheitlich</h2>
 		Kein Chaos mehr. Auf dem gleichen Weg einloggen und ausweisen. 
 	</div>
 </div>
@@ -29,7 +29,7 @@ Im Projekt "Identity Stick" wurde ein Prototyp entwickelt, der unser "digitales 
 	<div id="icon-einheitlich" class="icon">
 	</div>
 	<div class="content">
-		## Skalierbar
+		<h2>Skalierbar</h2>
 		Der FIDO2-Standard wird von über 250 der größten Unternehmen weltweit unterstützt. Die Lösung kann auf Smartphones, Laptops und USB-Sticks implementiert werden.
 	</div>
 </div>

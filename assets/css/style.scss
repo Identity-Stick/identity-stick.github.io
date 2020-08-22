@@ -25,10 +25,10 @@ ul li {
 }
 
 a {
-  color: #0068D6;
+  color: #3C4CD6;
 }
 a:hover {
-  color: #0C3DED;
+  color: #3C4CDD;
 }
 
 .inner{
@@ -77,4 +77,32 @@ header{
 
 .small-margin-bottom{
 	margin-bottom: 4px;
+}
+
+/*
+##################
+##	   Icons    ##
+##################
+*/
+
+.icon-wrapper{
+	display: flex;
+    align-items: center;
+}
+
+.icon{
+	width: 3em;
+	height: 3em;
+}
+
+.icon-einfach{
+	background: url("/../../ressourcen/einfach.png");
+}
+
+.icon-einheitlich{
+	background: url("/../../ressourcen/einheitlich.png");
+}
+
+.icon-skalierbar{
+	background: url("/../../ressourcen/skalierbar.png");
 }

@@ -7,14 +7,32 @@ Niemand mag Passwörter oder Videoidentifikationen. Mit dem Identity-Stick brauc
 
 Im Projekt "Identity Stick" wurde ein Prototyp entwickelt, der unser "digitales Ich" schützt und Prozesse erleichtert, für die wir uns identifizieren müssen. Vom Bankkonto bis zum digitalen Antrag.
 
-## Einfach
-Einfach auf einen Button drücken. Ohne Plugins oder weitere Apps. Der private Schlüssel bleibt immer auf dem Gerät. Passwortdiebstahl ist ausgeschlossen.
+<div class="icon-wrapper">
+	<div id="icon-einfach" class="icon">
+	</div>
+	<div class="content">
+		## Einfach
+		Einfach auf einen Button drücken. Ohne Plugins oder weitere Apps. Der private Schlüssel bleibt immer auf dem Gerät. Passwortdiebstahl ist ausgeschlossen.
+	</div>	
+</div>
 
-## Einheitlich
-Kein Chaos mehr. Auf dem gleichen Weg einloggen und ausweisen. 
+<div class="icon-wrapper">
+	<div id="icon-einheitlich" class="icon">
+	</div>
+	<div class="content">
+		## Einheitlich
+		Kein Chaos mehr. Auf dem gleichen Weg einloggen und ausweisen. 
+	</div>
+</div>
 
-## Skalierbar
-Der FIDO2-Standard wird von über 250 der größten Unternehmen weltweit unterstützt. Die Lösung kann auf Smartphones, Laptops und USB-Sticks implementiert werden.
+<div class="icon-wrapper">
+	<div id="icon-einheitlich" class="icon">
+	</div>
+	<div class="content">
+		## Skalierbar
+		Der FIDO2-Standard wird von über 250 der größten Unternehmen weltweit unterstützt. Die Lösung kann auf Smartphones, Laptops und USB-Sticks implementiert werden.
+	</div>
+</div>
 
 ## Wie funktioniert das?
 Der Identity-Stick Prototyp baut auf dem FIDO2 Protokoll auf und erweitert es um die Möglichkeit des Online Ausweisens.  

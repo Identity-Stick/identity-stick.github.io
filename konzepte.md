@@ -65,7 +65,7 @@ Diese Szenarien wurden mit einer Gruppe aus fünf Personen in persönlichen Inte
 
 - **Informationsbedürfnis**: Nutzer:innen müssen darüber informiert werden, was ein ‘Sicherheitsschlüssel’ ist und wie dieser eingesetzt werden kann. Im Interface könnte das Wort ‘Sicherheitsschlüssel’ durch Alternativen ersetzt werden (z.B. ‘Passwortlos anmelden’, ‘Mit USB-Stick anmelden’, ‘Sicherheitsstick verwenden’)
 - Vielseitige **Einsatzmöglichkeiten** könnten für die Nutzung eines Identity Sticks von Vorteil sein
-[Blick in die Zukunft](/ausblick#use-cases)
+<br>→[Mögliche Anwendungsfälle](/ausblick#use-cases)
 - **Ausweiskarte** ist nur bedingt als Login-Mittel geeignet. Hier müsste die Wahrnehmung noch stärker je nach Service getestet werden.
 - Dass die eID auch **pseudonym** genutzt werden kann, war Tester:innen unbekannt.
 - Das Wort **'Sicherheitsschlüssel'** in Bezug auf den Ausweis führt zu Verwirrung.

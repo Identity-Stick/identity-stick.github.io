@@ -18,15 +18,15 @@ Statt nationaler Standards könnten Anbieter zum Ausweisen und Einloggen einen S
 🤖 <span id="use-cases">Mögliche Anwendungsfälle</span>
 
 Für öffentliche Stellen:
-    - Digitale Verwaltungsleistungen: Für das digitale Elterngeld & Co müssen wir uns ausweisen.
-    - Digitaler Schüler:innen- oder Studierendenausweis z. B. zur Identifikation für digitale Prüfungen oder zum Abrufen von Zeugnissen
-    - Identifizierungen von Patienten:innen
+- Digitale Verwaltungsleistungen: Für das digitale Elterngeld & Co müssen wir uns ausweisen.
+- Digitaler Schüler:innen- oder Studierendenausweis z. B. zur Identifikation für digitale Prüfungen oder zum Abrufen von Zeugnissen
+- Identifizierungen von Patienten:innen
 Für Unternehmen
-    - Freigabe von Mitarbeitenden gegenüber Externen
-    - Identifizierung von Kund:innen z.B. für Carsharing-Dienste oder Banken
+- Freigabe von Mitarbeitenden gegenüber Externen
+- Identifizierung von Kund:innen z.B. für Carsharing-Dienste oder Banken
 Nutzung im Internet der Dinge
-    - In Ferienwohnung & Hotels ausweisen
-    - Ausweisen bei Paketstationen
+- In Ferienwohnung & Hotels ausweisen
+- Ausweisen bei Paketstationen
 
 ## Fido-Vault
 Der Identity Stick könnte weiter entwickelt werden, um Privatpersonen eine stärkere Kontrolle über ihre Daten zu geben. So könnten neue Konzepte, wie zum Beispiel eine Art 'FIDOVault'  Daten- und Identitätsschutz noch transparenter machen. In einem Vault könnte ein Sicherheitsschlüssel als Speicher für wichtige Daten benutzt werden, die mit der Identität verknüpft sind. Das könnte einen Passwortmanager, eine Auflistung der Dienste, die mit dem passwortlosen Login oder 2-Faktor Authentifikation genutzt wurden, oder auch Zertifikate enthalten. Online Dienste könnten selbst über entsprechende Schnittstellen Informationen im Vault ablegen (z. B. Röntgenbild) und Nutzende selbst Daten (z.B. das 'Elster Zertifikat') eintragen. Nutzende würden den Diensten dann ausgewählt Daten zur Verfügung stellen, wenn diese benötigt werden.

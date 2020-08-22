@@ -11,6 +11,12 @@ body{
 h3{
 	color: #303030;
 }
+ul li {
+  list-style-position: inside;
+  list-style: disc;
+  padding-left: 0px;
+}
+
 a {
   color: #0068D6;
 }

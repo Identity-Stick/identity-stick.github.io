@@ -5,7 +5,7 @@
 
 Niemand mag Passwörter oder Videoidentifikationen. Mit dem Identity-Stick brauchen wir sie nicht mehr. 
 
-![USB Sicherheitssticks auf weissem Grund](https://lh4.googleusercontent.com/l4tIG5EpH8qAyWy5cNr_r43eX_i1GwiIg5RYQGnO1FQ9aRsYycyvCyHAISJF963dfL7IoM8CnqmU2miuxyunWYzmP490MHPLxYPepZfTOa_n1sdF7e6cLEiiYmWfzlwhHIcjfLN7)
+![USB Sicherheitssticks auf weissem Grund](/ressourcen/hacker_solo_aussen_innen.png)
 
 **Im Projekt "Identity Stick" wurde ein Prototyp entwickelt, der unser "digitales Ich" schützt und Prozesse erleichtert, für die wir uns identifizieren müssen. Vom Bankkonto bis zum digitalen Antrag.**
 
@@ -58,7 +58,7 @@ Manche Gruppen brauchen besonderen Schutz ihrer Daten und Accounts. Journalist:i
 ## Wie könnte es weitergehen?
 ❗Der Identity Stick ist bisher nur ein Prototyp. So könnte es weitergehen: 
 
-⁇ [Anknüpfungspunkte](/about_prototype)
+⁇ [Anknüpfungspunkte](/about_prototype#next-steps)
 
 🚀[Blick in die Zukunft](https://www.notion.so/Blick-in-die-Zukunft-20378cb51e38483d946ea59cb31ca801)
 

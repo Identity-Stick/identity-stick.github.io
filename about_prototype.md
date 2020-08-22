@@ -24,7 +24,7 @@ Weitere Infos:
 - 📜 [Definition der Erweiterung identity-stick](https://github.com/Identity-Stick/identity-stick-extension)
 - 🖥️ [Demo des User Interface](/demo)
 
-## Was könnte noch weiterentwickelt werden?
+## <span id="next-steps"> Was könnte noch weiterentwickelt werden?</span>
 
 Für ein vollumfängliches Produkt könnten weitere Entwicklungsschritte unternommen werden:
 

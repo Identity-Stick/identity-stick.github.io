@@ -13,6 +13,8 @@ Der offene Standard FIDO2 (Fast Identity Online) ermöglicht den passwortlosen L
 
 Damit erhöht er Sicherheit und Usability für den Login von Nutzer:innen und könnte durch eine weitere Verbreitung bald eine einheitliche Lösung für den Login werden. Nutzer:innen müssen sich online viel seltener ausweisen als einloggen. Daher wäre es sinnvoll, wenn ausweisen gleich funktioniert wie einloggen.
 
+[Mehr zum Hintergrund des Projekts](/background)
+
 ## Drei Konzeptideen
 
 Wie lässt sich der Login mittels FIDO und das online Ausweisen verknüpfen? Wir haben drei Konzeptrichtungen erstellt. 
@@ -65,7 +67,8 @@ Diese Szenarien wurden mit einer Gruppe aus fünf Personen in persönlichen Inte
 ### Schlussfolgerungen
 
 - **Informationsbedürfnis**: Nutzer:innen müssen darüber informiert werden, was ein ‘Sicherheitsschlüssel’ ist und wie dieser eingesetzt werden kann. Im Interface könnte das Wort ‘Sicherheitsschlüssel’ durch Alternativen ersetzt werden (z.B. ‘Passwortlos anmelden’, ‘Mit USB-Stick anmelden’, ‘Sicherheitsstick verwenden’)
-- Vielseitige **Einsatzmöglichkeiten** könnten für die Nutzung eines Identity Sticks von Vorteil sein (—> Ausblick)
+- Vielseitige **Einsatzmöglichkeiten** könnten für die Nutzung eines Identity Sticks von Vorteil sein
+[Blick in die Zukunft](/ausblick#use-cases)
 - **Ausweiskarte** ist nur bedingt als Login-Mittel geeignet. Hier müsste die Wahrnehmung noch stärker je nach Service getestet werden.
 - Dass die eID auch **pseudonym** genutzt werden kann, war Tester:innen unbekannt.
 - Das Wort **'Sicherheitsschlüssel'** in Bezug auf den Ausweis führt zu Verwirrung.
@@ -74,5 +77,6 @@ Diese Szenarien wurden mit einer Gruppe aus fünf Personen in persönlichen Inte
 
 Unsere Umsetzung orientiert sich am FIDOIdent Konzept. Hier listen wir einige Gründe, warum wir so vorgegangen sind:
 
-- 'FIDO mit Ausweis' wurde unabhängig von uns während der Projektlaufzeit teilweise umgesetzt (hier sind [Browser-Erweiterungen](https://addons.mozilla.org/de/firefox/addon/webauthn-eid-for-firefox/) dazu). Die Nutzertests haben gezeigt, dass User:innen bedenken hatten, den Ausweis als Login Mittel einzusetzen. Es gibt außerdem ein paar Usability Probleme (unklar, wann Nutzende Daten pseudonym übertragen; unklar, dass der 'Ausweis' als "Sicherheitsschlüssel" verwendet werden kann; Download von Plugin und AusweisApps notwendig).
-- Da bei 'FIDOProvider' nur die Art des Logins beim Identitätsprovider angepasst wird, ist das Potenzial durch eine Entwicklung einer solchen Lösung geringer. Weiterhin muss dem Identitätsprovider vertraut werden. Wenn dies eine private Organisation ist, so wird die Verantwortung für digitale Identitäten weiter auf den privaten Markt verschoben. Außerdem bietet eine einzelne Stelle wie sie der Identitätsprovider darstellt, Gefahren für den Datenschutz.
+- 'FIDO mit Ausweis' wurde unabhängig von uns während der Projektlaufzeit teilweise umgesetzt (hier sind [Browser-Erweiterungen](https://addons.mozilla.org/de/firefox/addon/webauthn-eid-for-firefox/) dazu). Es gibt hier ein paar nicht ohne Weiteres zu lösende Usability Herausforderungen (unklar, wann Nutzende Daten pseudonym übertragen; unklar, dass der 'Ausweis' als "Sicherheitsschlüssel" verwendet werden kann; Download von Plugin und AusweisApps notwendig). Außerdem haben uns die Nutzertests  gezeigt, dass User:innen Bedenken hatten, den Ausweis als Login Mittel einzusetzen.
+- Da bei 'FIDOProvider' nur die Art des Logins beim Identitätsprovider angepasst wird, ist das Potenzial einer solchen Lösung geringer. Weiterhin muss dem Identitätsprovider vertraut werden. Wenn dies eine private Organisation ist, so wird die Verantwortung für digitale Identitäten weiter auf den privaten Markt verschoben. Außerdem bietet eine einzelne Stelle wie sie der Identitätsprovider darstellt, Gefahren für den Datenschutz.
+- Das Konzept 'FIDOIdent' bietet auf Anbieterseite großes Potenzial, da der Standard schon von Unternehmen umgesetzt wird. Darauf aufzubauen bietet auch den Vorteil, dass sich Nutzer:innen viel häufiger bei Services einloggen, als sich online auszuweisen. Für beides dieselbe Methode zu nutzen, ist damit für Nutzer:innen praktischer.

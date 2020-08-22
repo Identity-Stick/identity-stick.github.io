@@ -5,7 +5,7 @@
 
 Niemand mag Passwörter oder Videoidentifikationen. Mit dem Identity-Stick brauchen wir sie nicht mehr. 
 
-![USB Sicherheitssticks auf weissem Grund](/ressourcen/hacker_solo_aussen_innen.png)
+![USB Sicherheitssticks auf weissem Grund](/ressourcen/hacker_solo_innen_aussen.png)
 
 **Im Projekt "Identity Stick" wurde ein Prototyp entwickelt, der unser "digitales Ich" schützt und Prozesse erleichtert, für die wir uns identifizieren müssen. Vom Bankkonto bis zum digitalen Antrag.**
 

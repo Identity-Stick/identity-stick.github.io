@@ -11,6 +11,10 @@ body{
 p{
 	font-weight: normal;
 }
+h2{
+	margin-bottom: 4px;
+	margin-top: 1.5em;
+}
 h3{
 	color: #303030;
 }
@@ -62,12 +66,7 @@ header{
 
 #nav-bar ul{
 	list-style-type: none;
-
   	font-weight: normal;
-}
-
-#nav-bar a{
-	color: #FFAB19;
 }
 
 #nav-bar li{

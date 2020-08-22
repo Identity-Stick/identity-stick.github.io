@@ -5,7 +5,7 @@
 
 Niemand mag Passwörter oder Videoidentifikationen. Mit dem Identity-Stick brauchen wir sie nicht mehr. 
 
-**Im Projekt "Identity Stick" wurde ein Prototyp entwickelt, der unser "digitales Ich" schützt und Prozesse erleichtert, für die wir uns identifizieren müssen. Vom Bankkonto bis zum digitalen Antrag.**
+Im Projekt "Identity Stick" wurde ein Prototyp entwickelt, der unser "digitales Ich" schützt und Prozesse erleichtert, für die wir uns identifizieren müssen. Vom Bankkonto bis zum digitalen Antrag.
 
 ## Einfach
 Einfach auf einen Button drücken. Ohne Plugins oder weitere Apps. Der private Schlüssel bleibt immer auf dem Gerät. Passwortdiebstahl ist ausgeschlossen.
@@ -57,6 +57,6 @@ Manche Gruppen brauchen besonderen Schutz ihrer Daten und Accounts. Journalist:i
 
 ⁇ [Anknüpfungspunkte](/about_prototype#next-steps)
 
-🚀 [Blick in die Zukunft](https://www.notion.so/Blick-in-die-Zukunft-20378cb51e38483d946ea59cb31ca801)
+🚀 [Blick in die Zukunft](/ausblick)
 
-💻 [Zum GitHub Projekt(open for pull request 🤓)](https://github.com/identity-stick)
+💻 [Zum GitHub Projekt (open for pull request 🤓)](https://github.com/identity-stick)

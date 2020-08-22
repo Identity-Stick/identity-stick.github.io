@@ -95,6 +95,15 @@ header{
 	width: 10em;
 	height: 10em;
 }
+
+@media only screen and (max-width: 600px) {
+	.icon{
+		display: inline-block;
+		width: 5em;
+		height: 5em;
+	}
+}
+
 .content{
 	width: 70%;
 }

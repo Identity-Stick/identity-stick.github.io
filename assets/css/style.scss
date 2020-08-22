@@ -14,7 +14,8 @@ h3{
 ul li {
   list-style-position: inside;
   list-style: disc;
-  padding-left: 0px;
+  padding-left: 10px;
+
   font-weight: 300;
 }
 
@@ -60,6 +61,8 @@ header{
 
 #nav-bar ul{
 	list-style-type: none;
+
+  	font-weight: normal;
 }
 
 #nav-bar li{

@@ -57,6 +57,6 @@ Manche Gruppen brauchen besonderen Schutz ihrer Daten und Accounts. Journalist:i
 
 ⁇ [Anknüpfungspunkte](/about_prototype#next-steps)
 
-🚀[Blick in die Zukunft](https://www.notion.so/Blick-in-die-Zukunft-20378cb51e38483d946ea59cb31ca801)
+🚀 [Blick in die Zukunft](https://www.notion.so/Blick-in-die-Zukunft-20378cb51e38483d946ea59cb31ca801)
 
 💻 [Zum GitHub Projekt(open for pull request 🤓)](https://github.com/identity-stick)

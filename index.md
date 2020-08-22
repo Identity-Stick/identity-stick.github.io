@@ -26,7 +26,7 @@ Im Projekt "Identity Stick" wurde ein Prototyp entwickelt, der unser "digitales 
 </div>
 
 <div class="icon-wrapper">
-	<div id="icon-einheitlich" class="icon">
+	<div id="icon-skalierbar" class="icon">
 	</div>
 	<div class="content">
 		<h2>Skalierbar</h2>

@@ -39,4 +39,4 @@ Der noch recht junge Standard wurde bisher von relativ wenigen Webseiten komplet
 - **Verlust eines Identity Sticks**
 Die Problematik des Verlustes eines Sticks ist noch nicht vollständig gelöst. In bestehenden Ansätzen wird empfohlen, einen zweiten Sicherheitsschlüssel zu hinterlegen oder eine Liste an Backup Codes zu generieren, die für die Zurücksetzung des Accounts verwendet werden können. Es könnte in solch einem Fall aber auch auf die Identifizierung mittels eines Ausweisdokuments (z.B. der eID) zurückgegriffen werden. Einen ähnlichen Fall beschreibt das BSI in einer Technischen Richtlinie.
 
-🚀 [Wie könnte es weitergehen?](/use_cases)
+🚀 [Wie könnte es weitergehen?](/ausblick)

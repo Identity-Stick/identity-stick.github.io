@@ -10,13 +10,23 @@ Niemand mag Passwörter oder Videoidentifikationen. Mit dem Identity-Stick brauc
 **Im Projekt "Identity Stick" wurde ein Prototyp entwickelt, der unser "digitales Ich" schützt und Prozesse erleichtert, für die wir uns identifizieren müssen. Vom Bankkonto bis zum digitalen Antrag.**
 
 ## Einfach
-Kein Chaos mehr. Auf dem gleichen Weg einloggen und ausweisen. Einfach auf einen Button drücken. Ohne Plugins oder weitere Apps.
+Einfach auf einen Button drücken. Ohne Plugins oder weitere Apps. Der private Schlüssel bleibt immer auf dem Gerät. Passwortdiebstahl ist ausgeschlossen.
 
 ## Sicher
-Der private Schlüssel bleibt immer auf dem Gerät. Passwortdiebstahl ist ausgeschlossen.
+Kein Chaos mehr. Auf dem gleichen Weg einloggen und ausweisen. 
 
 ## Skalierbar
 Der FIDO2-Standard wird von über 250 der größten Unternehmen weltweit unterstützt. Die Lösung kann auf Smartphones, Laptops und USB-Sticks implementiert werden.
+
+## Wie funktioniert das?
+Der Identity-Stick Prototyp baut auf dem FIDO2 Protokoll auf und erweitert es um die Möglichkeit des Online Ausweisens.  
+
+**[VIDEO]**
+
+📜 [Mehr über den Prototyp erfahren](/about_prototype)
+
+💻 [Zum GitHub Projekt](https://github.com/identity-stick)
+
 
 ## Warum brauchen wir das?
 
@@ -28,36 +38,28 @@ Der FIDO2-Standard wird von über 250 der größten Unternehmen weltweit unterst
 
 [Mehr zum Hintergrund des Projekts](/background)
 
-## Wie funktioniert das?
-Der Identity-Stick Prototyp baut auf dem FIDO2 Protokoll auf und erweitert es um die Möglichkeit des online Ausweisens.  
-
-**[VIDEO]**
-
-📜 [Mehr über den Prototyp erfahren](/about_prototype)
-
-💻 [Zum GitHub Projekt](https://github.com/identity-stick)
 
 ## Für wen ist das?
-❗ Der Identity-Stick ist ein Prototyp. Für diese Zielgruppen könnte unsere Lösung interessant sein:
+Für diese Zielgruppen könnte die Lösung interessant sein:
 
 ### Für Unternehmen
 Unternehmen haben häufig besonders sensible Daten. Dafür braucht es gesteigerte Sicherheitsvorkehrungen. Ein USB-Schlüssel kann Mitarbeitenden Zugang zu ihren Accounts geben und dabei Datensicherheit an erste Stelle setzen. 
 
-### Für Bürger:innen
-Sicherheit soll nicht nur für Kryptoexpert:innen gelten. Bürger:innen sollen ihre digitale Identität einfach schützen und online Ausweisprozesse integrieren können. In einem Produkt.
-
 ### Für den öffentlichen Bereich
 Schulen, das digitale Rathaus und vieles mehr: Wir brauchen Ausweise, um unsere Identität zu bestätigen. Mit einem digitalen Schlüssel können diese Prozesse vereinfacht werden.
+
+### Für Bürger:innen
+Sicherheit soll nicht nur für Kryptoexpert:innen gelten. Bürger:innen sollen ihre digitale Identität einfach schützen und online Ausweisprozesse integrieren können. In einem Produkt.
 
 ### Für Techies, Sicherheitsnerds und Personen, die besonderen Schutz brauchen
 Manche Gruppen brauchen besonderen Schutz ihrer Daten und Accounts. Journalist:innen, Techies oder Sicherheitsnerds
 
 
 ## Wie könnte es weitergehen?
-Der Identity Stick ist bisher nur ein Prototyp, verspricht aber großes Potenzial. 
+❗Der Identity Stick ist bisher nur ein Prototyp. So könnte es weitergehen: 
 
-⁇ [Offene Punkte](/about_prototype)
+⁇ [Anknüpfungspunkte](/about_prototype)
 
 🚀[Blick in die Zukunft](https://www.notion.so/Blick-in-die-Zukunft-20378cb51e38483d946ea59cb31ca801)
 
-💻 [Zum GitHub Projekt](https://github.com/identity-stick)
+💻 [Zum GitHub Projekt(open for pull request 🤓)](https://github.com/identity-stick)

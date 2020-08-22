@@ -1,4 +1,4 @@
-# Überlegungen
+# Konzeption
 Wie sind wir zum Identity Stick gekommen? Welche Konzeptideen sind aufgekommen und was haben wir herausgefunden? Hier tragen wir kurz ein paar der Erkenntnisse zusammen, die wir über die Projektlaufzeit gewonnen haben.
 
 ## Wo sind wir gestartet?

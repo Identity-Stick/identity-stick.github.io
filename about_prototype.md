@@ -20,22 +20,27 @@ Für den Prototyp wurde auf dem Solo FIDO2 Stick "[Solo for Hackers](https://git
 
 Weitere Infos:
 
-- 👩🏾‍💻 [Prototyp des Identity Sticks](https://github.com/identity-Stick/identity-stick)
-- 📜 [Definition der Erweiterung identity-stick](https://github.com/Identity-Stick/identity-stick-extension)
-- 🖥️ [Demo des User Interface](/demo)
+👩🏾‍💻 [Prototyp des Identity Sticks](https://github.com/identity-Stick/identity-stick)
+📜 [Definition der Erweiterung identity-stick](https://github.com/Identity-Stick/identity-stick-extension)
+🖥️ [Demo des User Interface](/demo)
 
 ## <span id="next-steps"> Was könnte noch weiterentwickelt werden?</span>
 
 Für ein vollumfängliches Produkt könnten weitere Entwicklungsschritte unternommen werden:
 
 - **Personalisierung des Sticks und Signatur von Daten**
+
 Die Personalisierung des Sticks bzw. Signatur der Daten müsste in einem Produktionsumfeld von einer **vertrauenswürdigen Instanz** gesichert werden. Dafür käme eine staatliche Stelle wie bspw. die Bundesdruckerei in frage, die auch die technische Infrastruktur der eID betreut. Für eine einsatzfähige und sichere Version des Sticks müsste die Hardware von dieser Instanz hergestellt, die Maintenance gesichert und die entsprechenden individuellen Daten bei Erstausstellung für jede Bürger:in signiert werden. Es wäre nützlich, Bürger:innen mit entsprechenden Informationen und Materialien über die Funktionsweise aufzuklären.
+
 - **Weiterentwicklung des Protokolls**
 In der momentanen Version des Identity Stick Prototyps werden die Daten signiert auf dem Stick abgelegt und dann an Diensteanbieter:innen weiter gesendet. Dies verhindert zum Einen keine Replay-Attacken. Zum Anderen könnten die bestätigten Daten von Diensteanbieter:innen an Dritte weitergegeben werden. Daher müssten weitere Verbesserungen des Protokolls erfolgen. So sollte ein authentifizierter sichererer Kanal zwischen Stick und Diensteanbieter:in aufgebaut werden über den Daten ausgetauscht werden könnten.
+
 - **Erweiterter Hardwarespeicher und Features**
 Der Speicherplatz des Solo-Sticks ist limitiert, weshalb nur eine begrenzte Menge an Informationen darauf abgelegt werden kann. Mit der Produktion eigener Hardware könnte dieser Speicherplatz und damit die Funktionalität des Sticks erweitert werden. So könnte der Stick neben der sicheren (multi- und passwortlosen) Authentifizierung und Identifizierung auch einen sicheren Datenspeicher beinhalten, auf dem wichtige Dateien und Zertifikate abgelegt werden können, einen Passwortmanager beinhalten und vieles mehr.
+
 - **Bekanntheitsgrad und Verbreitung von FIDO2**
 Der noch recht junge Standard wurde bisher von relativ wenigen Webseiten komplett implementiert. In Zukunft ist damit zu rechnen, dass mehr Diensteanbieter:innen die Standards umsetzen und sich somit auch das Potenzial für Anwender:innen erhöht. Nur 7% der deutschen Bürger:innen geben außerdem bei einer Befragung an, den Standard zu kennen (gefragt nach: “Token/Stick (FIDO2)”), obwohl sie Potenzial für dessen Nutzung sehen. Eine größere Adaption könnte also auch erreicht werden, wenn dessen Vorteile stärker an Bürger:innen herangetragen werden. Durch die breite Beteiligung an der FIDO-Allianz ist jedoch mit einer zukünftig stärkeren Verbreitung zu rechnen..
+
 - **Verlust eines Identity Sticks**
 Die Problematik des Verlustes eines Sticks ist noch nicht vollständig gelöst. In bestehenden Ansätzen wird empfohlen, einen zweiten Sicherheitsschlüssel zu hinterlegen oder eine Liste an Backup Codes zu generieren, die für die Zurücksetzung des Accounts verwendet werden können. Es könnte in solch einem Fall aber auch auf die Identifizierung mittels eines Ausweisdokuments (z.B. der eID) zurückgegriffen werden. Einen ähnlichen Fall beschreibt das BSI in einer Technischen Richtlinie.
 

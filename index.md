@@ -26,7 +26,7 @@ Der FIDO2-Standard wird von über 250 der größten Unternehmen weltweit unterst
 
 💳 Der online Ausweis wurde [von 94% der Deutschen noch nie genutzt](https://initiatived21.de/app/uploads/2019/10/egovernment-monitor-2019.pdf). Eine weit verbreite Lösung, die es ermöglicht, Login und online ausweisen zu kombinieren, gibt es bisher nicht. 
 
-[Mehr zum Hintergrund des Projekts](/hintergrund)
+[Mehr zum Hintergrund des Projekts](/background)
 
 ## Wie funktioniert das?
 Der Identity-Stick Prototyp baut auf dem FIDO2 Protokoll auf und erweitert es um die Möglichkeit des online Ausweisens.  
@@ -60,4 +60,4 @@ Der Identity Stick ist bisher nur ein Prototyp, verspricht aber großes Potenzia
 
 🚀[Blick in die Zukunft](https://www.notion.so/Blick-in-die-Zukunft-20378cb51e38483d946ea59cb31ca801)
 
-💻 Zum GitHub Projekt (open for pull request)
+💻 [Zum GitHub Projekt](https://github.com/identity-stick)

@@ -1,4 +1,3 @@
-# Hintergrund
 Mit dem Identity-Stick soll der passwortlose Login um eine Möglichkeit erweitert werden, sich auszuweisen. FIDO2 ermöglicht es momentan nur, sich bei Accounts einzuloggen (mehr über den Standard hier). Wenn Nutzer:innen sich bei einem Dienst ausweisen sollen, zum Beispiel bei der Eröffnung eines Bankkontos oder für eine öffentliche Verwaltungsleistung, ist das bisher nicht möglich.
 
 Die FIDO Allianz strebt an, die Accounterstellung mit verifizierten Identitätsattributen Wirklichkeit werden zu lassen und Probleme wie die Wiederherstellung von Accounts oder den FIDO-Standard im Internet der Dinge stärker einzusetzen. Bisher wurde der Standard aber nicht dementsprechend erweitert.

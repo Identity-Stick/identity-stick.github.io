@@ -19,18 +19,18 @@ Damit erhöht er Sicherheit und Usability für den Login von Nutzer:innen und k�
 
 Wie lässt sich der Login mittels FIDO und das online Ausweisen verknüpfen? Wir haben drei Konzeptrichtungen erstellt. 
 
-🏢 1. FIDO-Provider
+🏢 **1. FIDO-Provider**
 <br>Identitätsprovider stellen eine Schnittstelle zwischen Nutzer:innen und Diensten dar. Wenn der Dienst den Identitätsprovidern traut, können diese etwas über die Identität von Nutzer:innen aussagen (z. B. deren Alter). Ganz genau wie bspw. eine Freundin und jemand Fremden vorstellt. 
 Dazu müssen sich Nutzer:innen aber bei Identitätsprovidern einloggen. Dies geschieht bisher über Passwörter und teilweise zusätzliche zweite Faktoren wie mobile TANs. Dies könnte aber durch den passwortlosen Login mittels FIDO ersetzt werden. Nutzer:innen würden sich somit über Identitätsprovider ausweisen, nutzen dafür aber genau das gleiche Mittel wie bei einem Login, nämlich ihren FIDO-Sicherheitsschlüssel.
 Der Vorschlag wird auch vom Bundesamt für Sicherheit in der Informationstechnik [erwähnt](https://www.bsi.bund.de/DE/Publikationen/TechnischeRichtlinien/tr03159/tr03159_node.html). 
 
-💳 2. FIDO mit Ausweis
+💳 **2. FIDO mit Ausweis**
 <br>Mit dem deutschen Personalausweis können sich Nutzer:innen auch elektronisch ausweisen. Die Idee hinter diesem Konzept war es den Ausweis als Sicherheitsschlüssel für einen passwortlosen Login mittels FIDO2 zu nutzen.
 Den Ausweis mittels dem FIDO1 Standard (U2F-Protokoll) als 2. Faktor bei Webseiten zu hinterlegen ermöglicht bereits [Fidelio](https://play.google.com/store/apps/details?id=de.persoapp.android.FIDELIO&hl=de). Mehr dazu wird in [diesem Video](https://youtu.be/Oc32AwPL2Nw) genauer erläutert.
 
 Die Überlegung wäre gewesen darauf aufbauend eine Art 2.0 Variante zu entwickeln, bei der der Ausweis direkt über die AusweisApp2 genutzt und der neue FIDO2 Standard eingesetzt werden könnte. 
 
-🔑 3. FIDO-Ident
+🔑 **3. FIDO-Ident**
 <br>Entgegengesetzt zur Nutzung eines Personalausweises zum Login ist die Idee von FIDO-Ident, einen FIDO2-Sicherheitsschlüssel ebenfalls zum Ausweisen einzusetzen. 
 Dazu soll FIDO2 als Protokoll zur Übermittlung von Identitätsattributen genutzt werden, die sich auf dem Sicherheitsschlüssel befinden.
 

@@ -17,16 +17,16 @@ Statt nationaler Standards könnten Anbieter zum Ausweisen und Einloggen einen S
 
 ### 🤖 <span id="use-cases">Mögliche Anwendungsfälle</span>
 
-<span class="small-margin-bootom">Für öffentliche Stellen</span>
+<div class="small-margin-bottom">Für öffentliche Stellen</div>
 - Digitale Verwaltungsleistungen: Für das digitale Elterngeld & Co müssen wir uns ausweisen.
 - Digitaler Schüler:innen- oder Studierendenausweis z. B. zur Identifikation für digitale Prüfungen oder zum Abrufen von Zeugnissen
 - Identifizierungen von Patienten:innen
 
-<span class="small-margin-bootom">Für Unternehmen</span>
+<div class="small-margin-bottom">Für Unternehmen</div>
 - Freigabe von Mitarbeitenden gegenüber Externen
 - Identifizierung von Kund:innen z.B. für Carsharing-Dienste oder Banken
 
-<span class="small-margin-bootom">Nutzung im Internet der Dinge</span>
+<div class="small-margin-bottom">Nutzung im Internet der Dinge</div>
 - In Ferienwohnung & Hotels ausweisen
 - Ausweisen bei Paketstationen
 

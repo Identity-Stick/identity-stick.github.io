@@ -102,7 +102,7 @@ html, body {
 	width: 2.5em;
 }
 
-.popover-info{
+.popover-info-box{
 	position: fixed;
 	width: 30%; 
 	top: 0;
@@ -116,10 +116,7 @@ html, body {
 	color: #fff;
 
 	background-color: #3064BF; 
-	box-shadow: 0.2em 0.2em 2px #C0C0C0;	
-	
-
-	
+	box-shadow: 0.2em 0.2em 2px #C0C0C0;		
 }
 
 /*

@@ -947,7 +947,7 @@ var PopOverlayContent = function (_React$Component16) {
               React.createElement(
                 "div",
                 { className: "popover-icon" },
-                React.createElement("img", { src: "icons/usb-stick-bg.png", alt: "Schwarzwei\xDFes Icon von inem USB Stick" })
+                React.createElement("img", { src: "icons/usb-stick-bg.png", alt: "Schwarzwei\xDFes Icon von einem USB Stick" })
               ),
               React.createElement(
                 "button",
@@ -1180,7 +1180,7 @@ var InfoBox = function (_React$Component19) {
     value: function render() {
       return React.createElement(
         "div",
-        { "class": "popover-info" },
+        { "class": "popover-info-box" },
         React.createElement(
           "div",
           { style: { width: "100%", fontWeight: "bold" } },

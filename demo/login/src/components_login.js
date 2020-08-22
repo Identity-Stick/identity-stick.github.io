@@ -1141,7 +1141,7 @@ var InfoBox = function (_React$Component16) {
     value: function render() {
       return React.createElement(
         "div",
-        { "class": "popover-info" },
+        { "class": "popover-info-box" },
         React.createElement(
           "div",
           { style: { width: "100%", fontWeight: "bold" } },

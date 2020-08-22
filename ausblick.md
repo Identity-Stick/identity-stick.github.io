@@ -3,7 +3,7 @@
 
 Der Identity-Stick Prototyp zeigt Entwicklungspotenzial: Vom Identity Stick zum Identity Key.
 
-📱**Nutzung mit anderen Geräten**
+### 📱Nutzung mit anderen Geräten
 
 Der Prototyp basiert auf einem USB-Stick, aber die von uns vorgeschlagene Erweiterung könnte neben Identity Sticks auch mit Laptops oder Smartphones genutzt werden. 
 
@@ -11,22 +11,22 @@ So könnte der eigene 'Identity Key' an diese Hardware gebunden sein, ohne dass 
 
 So könnten verschiedene Ausweise, Führerscheine und weitere Karten digital in das Gerät integriert werden. Attribute der verschiedenen Karten können alle über die gleiche Schnittstelle geteilt werden. Der Ablauf wäre für Nutzende stets einheitlich. Apps, die darauf aufbauen, könnten ein Identitätshub werden.
 
-🏢**Dienstanbieter könnten international den gleichen Standard nutzen**
+### 🏢Dienstanbieter könnten international den gleichen Standard nutzen
 
 Statt nationaler Standards könnten Anbieter zum Ausweisen und Einloggen einen Standard nutzen. Dadurch können sich potenzielle Nutzer:innen mit einer einzigen Lösung digital einloggen und ausweisen. Sie müssten sich nicht mehr selbst um die Sicherheit ihrer digitalen Identität kümmern. Das könnte so leicht sein wie das Aufschließen einer Tür.
 
-🤖 <span id="use-cases">**Mögliche Anwendungsfälle**</span>
+### 🤖 <span id="use-cases">Mögliche Anwendungsfälle</span>
 
-Für öffentliche Stellen
+<span class="small-margin-bootom">Für öffentliche Stellen</span>
 - Digitale Verwaltungsleistungen: Für das digitale Elterngeld & Co müssen wir uns ausweisen.
 - Digitaler Schüler:innen- oder Studierendenausweis z. B. zur Identifikation für digitale Prüfungen oder zum Abrufen von Zeugnissen
 - Identifizierungen von Patienten:innen
 
-Für Unternehmen
+<span class="small-margin-bootom">Für Unternehmen</span>
 - Freigabe von Mitarbeitenden gegenüber Externen
 - Identifizierung von Kund:innen z.B. für Carsharing-Dienste oder Banken
 
-Nutzung im Internet der Dinge
+<span class="small-margin-bootom">Nutzung im Internet der Dinge</span>
 - In Ferienwohnung & Hotels ausweisen
 - Ausweisen bei Paketstationen
 

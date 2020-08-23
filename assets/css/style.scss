@@ -53,9 +53,9 @@ header{
 }
 
 .logo-img{
-	width: 100em;
+	width: 300em;
 	max-width: 300px;
-	height: 300em;
+	height: 100em;
 	max-height: 100px;
 
 	margin: 0 auto;
@@ -102,6 +102,18 @@ header{
 		width: 6.5em;
 		height: 6.5em;
 	}
+	
+	.logo-img{
+	width: 270em;
+	max-width: 240px;
+	height: 80em;
+	max-height: 80px;
+
+	margin: 0 auto;
+
+	background-size: contain;
+	background-image: url('/../../ressourcen/idStick_logo_bg.png')	
+}
 
 	.footer-logo{
 		height: 50px;

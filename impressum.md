@@ -11,7 +11,7 @@ Weichselstraße 56
 12045 Berlin
 
 **Kontakt**
-Telefon: <span>+49</span><span>178 4</span><span>60 4</span><div style="display: none;">1234</div><span>7 45</span>
+Telefon: <span>+49</span><span>178 4</span><span>60 4</span><span style="display: none;">1234</span><span>7 45</span>
 E-Mail: <a href="mailto:identitystick@gmail.com"><span>identity</span>stick[ät]g<span>mail</span>.com</a>
 
 **Verbraucherstreitbeilegung/Universalschlichtungsstelle**

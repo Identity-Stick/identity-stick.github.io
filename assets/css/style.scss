@@ -96,37 +96,7 @@ header{
 	height: 10em;
 }
 
-@media only screen and (max-width: 600px) {
-	.icon{
-		display: inline-block;
-		width: 6.5em;
-		height: 6.5em;
-	}
-	
-	.logo-img{
-	width: 270em;
-	max-width: 240px;
-	height: 80em;
-	max-height: 80px;
 
-	margin: 0 auto;
-
-	background-size: contain;
-	background-image: url('/../../ressourcen/idStick_logo_bg.png')	
-}
-
-	.footer-logo{
-		height: 50px;
-	}
-	
-	.video{
-		width: 187px;
-		height: 105px;
-	}
-
-
-	
-}
 
 .content{
 	width: 70%;
@@ -152,4 +122,35 @@ header{
 .video{
 	width: 750px;
 	height: 420px;
+}
+
+
+@media only screen and (max-width: 600px) {
+	.icon{
+		display: inline-block;
+		width: 6.5em;
+		height: 6.5em;
+	}
+	
+	.logo-img{
+		width: 270em;
+		max-width: 240px;
+		height: 80em;
+		max-height: 80px;
+
+		margin: 0 auto;
+
+		background-size: contain;
+		background-image: url('/../../ressourcen/idStick_logo_bg.png')	
+	}
+
+	.footer-logo{
+		height: 50px;
+	}
+	
+	.video{
+		width: 187px;
+		height: 105px;
+	}
+	
 }

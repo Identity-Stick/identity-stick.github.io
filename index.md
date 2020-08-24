@@ -37,7 +37,7 @@ Im Projekt "Identity Stick" wurde ein Prototyp entwickelt, der unser "digitales 
 ## Wie funktioniert das?
 Der Identity-Stick Prototyp baut auf dem FIDO2 Protokoll auf und erweitert es um die Möglichkeit des Online Ausweisens.  
 
- <iframe width="750" height="422" src="https://www.youtube-nocookie.com/embed/e-PaZhYj5Lk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+  <iframe width="750" height="422" src="https://www.youtube-nocookie.com/embed/4d9wFeLhmHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 📜 [Mehr über den Prototyp erfahren](/about_prototype)
 

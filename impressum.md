@@ -6,7 +6,7 @@ Der Identity Stick ist ein Projekt der <a href="https://prototypefund.de/">Proto
 
 
 ## Impressum - Angaben gemäß § 5 TMG
-Sina Beckstein & Julian Rösner GbR 
+Julian Rösner, Sina Beckstein
 Weichselstraße 56
 12045 Berlin
 
